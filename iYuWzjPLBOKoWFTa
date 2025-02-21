@@ -1,16 +1,16 @@
 -- Player enters the key here
-local playerKey = "HelloGuys" -- Replace this with the key you want to check
+local playerKey = "OKoWFTzhQXEaGYViYuWzjPLBOKoWFTzh" 
 
 
 -- Define the correct key
-local correctKey = "HelloGuys" -- Replace this with your correct key
+local correctKey = "OKoWFTzhQXEaGYViYuWzjPLBOKoWFTzh" -- Replace this with your correct key
 
 
 
 
 if playerKey == correctKey then
 
-    local scriptURL = "loadstring(game:HttpGet(https://raw.githubusercontent.com/tiktakiceman/Script/refs/heads/main/8e2f72f6097e1d002dc2a3ce975ff8b))()" -- Replace with the URL of the script you want to run
+    local scriptURL = "https://raw.githubusercontent.com/tiktakiceman/iYuWzjPLBOKoWFTzhQXEaGYViYuWzjPLBOKoWFTzhQXEaGYViYuWzjPLBOKoWFTzhQXEaGYV/refs/heads/main/iYuWzjPLBOKoWFTzhQXEaGYViYuWzjPLBOKoWFTzhQXEaGYViYuWzjPLBOKoWFTzhQXEaGYViYuWzjPLBOKoWFTzhQXEaGYVwiYuWzjPLBOKoWFTzhQXEaGYViYuWzjPLBOKoWFTzhQXEaGYViYuWzjPLBOKoWFTzhQXEaGYV?token=GHSAT0AAAAAAC6U7CK4CLT6MOFEVKKFFWNQZ5YXCKQ" -- Replace with the URL of the script you want to run
 
     print("Key correct! Script executed.")
 else
